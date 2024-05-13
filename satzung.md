@@ -26,6 +26,12 @@ hochschulpolitische Themen auch allgemeinpolitisch äußern.
 Hierbei muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen
 unmittelbar bestehen und deutlich erkennbar bleiben.
 
+# Verhalten auf ZaPFen
+
+Die ZaPF versteht sich als fundamental antifaschistisch, basisdemokratisch und
+offen für alle Menschen. Näheres hierzu regelt das Dokument "Verhaltenskodex
+der ZaPF".
+
 # Tagung
 
 Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und
